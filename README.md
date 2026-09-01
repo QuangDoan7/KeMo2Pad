@@ -1,5 +1,3 @@
-# Key2Pad 1.0.0
-
 Key2Pad converts keyboard and mouse input into a virtual Xbox 360 controller on Windows.
 
 ## Requirements
